@@ -5,7 +5,7 @@ sudo dnf install -y https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-rel
 sudo dnf install -y git ffmpeg ImageMagick nodejs yarnpkg libwebp &&\
 sudo dnf clean all -y
 
-RUN git clone https://github.com/Ivanmods15/Goku-Black-Bot-MD-Lite 
+RUN git clone https://github.com/TOKIO5025/misa-amane 
 
 WORKDIR /root/𝙈𝙄𝙎𝘼-𝘼𝙈𝘼𝙉𝙀-𝘽𝙊𝙏-𝙈𝘿
 
