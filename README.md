@@ -103,14 +103,14 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `🌹PROPIETARIO DEL BOT🌹` 
-<a href="https://github.com/Ivanmods15"><img src="https://github.com/Ivanmods15.png" width="250" height="250" alt="Ivan"/></a>
+<a href="https://github.com/TOKIO5025"><img src="https://github.com/TOKIO5025.png" width="250" height="250" alt="TOKIO5025"/></a>
   
 
 ## `🌼COLABORADORES DEL BOT🌼` 
-<a href="[https://github.com/elias1524]"><img src="https://github.com/elias1524.png" width="100" height="100" alt="Elías"/></a>
-<a href="[https://github.com/Dioneibi]"><img src="https://github.com/Dioneibi.png" width="100" height="100" alt="Dioneibi"/></a>
+<a href="[https://github.com/TOKIO5025]"><img src="https://github.com/TOKIO5025.png" width="100" height="100" alt="TOKIO5025"/></a>
+<a href="[https://github.com/TOKIO5025]"><img src="https://github.com/TOKIO5025.png" width="100" height="100" alt="TOKIO5025"/></a>
 <td align="center"><a 
-<a href="[https://github.com/Jostin207]"><img src="https://github.com/Jostin207.png" width="100" height="100" alt="Jostin"/></a>
+<a href="[https://github.com/TOKIO5025]"><img src="https://github.com/TOKIO5025.png" width="100" height="100" alt="TOKIO5025"/></a>
   
 ## `𝙈𝙄𝙎𝘼-𝘼𝙈𝘼𝙉𝙀-𝘽𝙊𝙏-𝙈𝘿`
 ## `Dueño:🐉𝙉𝙚𝙤𝙏𝙤𝙠𝙮𝙤 𝘽𝙚𝙖𝙩𝙨🐲`
