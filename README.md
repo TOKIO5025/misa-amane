@@ -28,21 +28,9 @@
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
 
 
-
   
-### `—◉ 💥𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝗞𝗼𝘆𝗲𝗯💥`
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Ivanmods15/Goku-Black-Bot-MD-Lite&branch=master&name=GokuBlack-Bot)
-  
-### `—◉ 🌌𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝗥𝗲𝗽𝗹𝗶𝘁🌌`
-
-[![Run on Repl.it](https://repl.it/badge/github/Ivanmods15/Goku-Black-Bot-MD-Lite)](https://repl.it/github/Ivanmods15/Goku-Black-Bot-MD-Lite) 
-  
-### `—◉ 📜𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝗥𝗲𝗻𝗱𝗲𝗿📜`
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FIvanmods15%2FGoku-Black-Bot-MD-Lite) 
-
-### `—◉ 📍𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝘁𝗲𝗿𝗺𝘂𝘅📍` 
+### `—◉ 📍instalar 𝗲𝗻 𝘁𝗲𝗿𝗺𝘂𝘅📍` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 cd && termux-setup-storage
@@ -57,7 +45,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Ivanmods15/Goku-Black-Bot-MD-Lite.git && cd Goku-Black-Bot-MD-Lite
+git clone https://github.com/TOKIO5025/misa-amane.git && cd misa-amane-Bot-MD
 ```
 
 ```bash
@@ -80,7 +68,7 @@ npm start
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd Black-termux
+> cd misa-termux
 > npm start
 ```
 
@@ -89,7 +77,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> rm -rf Blacksession
+> rm -rf misasession
 > npm start
 ```
 
@@ -99,7 +87,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="http://wa.me/50248019799" target="misa"><img src="https://img.shields.io/badge/🐉𝙉𝙚𝙤𝙏𝙤𝙠𝙮𝙤 𝘽𝙚𝙖𝙩𝙨🐲_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉📄✦CUSTOMER SUPPORT✦📄`
-<a href="http://wa.me/595972157130" target="misa"><img src="https://img.shields.io/badge/50248019799_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/50248019799" target="misa"><img src="https://img.shields.io/badge/50248019799_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 ## `🌹PROPIETARIO DEL BOT🌹` 
